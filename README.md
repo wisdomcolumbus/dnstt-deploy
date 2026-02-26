@@ -334,4 +334,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ---
 
-**Made with ❤️ for privacy and security**
+**Made TO GROW for privacy and security**
